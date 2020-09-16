@@ -4,8 +4,7 @@ Analyze temperature and atmospheric pressure in a residential space
 ## Instructions
 Do the following activities using Python and answer the questions of the last bullet. The exam will  be done and delivered in teams.
 
-
-1. Analize the data file ds-home-5min-avg.csvPreview the document. In this file are recorded measurements of humidity (hum), temperature (tem) and atmospheric pressure (pre) in a given datetime (date), along with a discrete occupancy level (occ), for a residential space  (living room + dinner room).
+1. Analize the data file ds-home-5min-avg.csv the document. In this file are recorded measurements of humidity (hum), temperature (tem) and atmospheric pressure (pre) in a given datetime (date), along with a discrete occupancy level (occ), for a residential space  (living room + dinner room).
 	- Generate plots for describing the statistical distribution of every feature.
 	- Calculate and plot the correlation matrix between numerical vaues (hum, tem, pre).
 
